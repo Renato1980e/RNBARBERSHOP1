@@ -1,0 +1,1 @@
+Coloque aqui suas imagens: hero.jpg, barbearia.jpg, certificado-1.jpg e certificado-2.jpg. As imagens são opcionais.
